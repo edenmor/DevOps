@@ -36,10 +36,10 @@
     <meta content="https://avatars0.githubusercontent.com/u/28690951?v=4&amp;s=400" property="og:image" /><meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="edenmor/devops_course_test" property="og:title" /><meta content="https://github.com/edenmor/devops_course_test" property="og:url" /><meta content="devops_course_test - this repository is an example" property="og:description" />
 
   <link rel="assets" href="https://assets-cdn.github.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MjA0NDc5NjA2OmU3MmE2NDg5ZGYxOGJlMzljNjVkYzNkNWQxZjJlMzE4NmMwN2UyZjQzYjA3YTRjN2JjOGYxYWZjYjM5NWM3MjQ=--123726563ca7d9e0dfa0213f433624a945bba64a">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MjA0NDc5NjA2OmEwNmE2YWMxM2MyMmI2Mzc5MTFlMjgxOTBjZDBhMGE4OWU0Njg0Y2IyNWY0M2FhOWEyNDA1OTgyYWI0Njk4MDY=--9331c328d069be119da479fdd0918a55ba807593">
   <meta name="pjax-timeout" content="1000">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="C7B1:43C2:4298B77:7997D28:59BA4084" data-pjax-transient>
+  <meta name="request-id" content="C977:43C3:480E3AD:837201B:59BA46E9" data-pjax-transient>
   
 
   <meta name="selected-link" value="repo_source" data-pjax-transient>
@@ -48,7 +48,7 @@
 <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-analytics" content="UA-3769691-2">
 
-<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="https://collector.githubapp.com/github-external/browser_event" name="octolytics-event-url" /><meta content="C7B1:43C2:4298B77:7997D28:59BA4084" name="octolytics-dimension-request_id" /><meta content="iad" name="octolytics-dimension-region_edge" /><meta content="iad" name="octolytics-dimension-region_render" /><meta content="28690951" name="octolytics-actor-id" /><meta content="edenmor" name="octolytics-actor-login" /><meta content="fcd9a536eebc31a5e772722316c6576470849f29e2ddbf891bfda4ef39945a08" name="octolytics-actor-hash" />
+<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="https://collector.githubapp.com/github-external/browser_event" name="octolytics-event-url" /><meta content="C977:43C3:480E3AD:837201B:59BA46E9" name="octolytics-dimension-request_id" /><meta content="iad" name="octolytics-dimension-region_edge" /><meta content="iad" name="octolytics-dimension-region_render" /><meta content="28690951" name="octolytics-actor-id" /><meta content="edenmor" name="octolytics-actor-login" /><meta content="fcd9a536eebc31a5e772722316c6576470849f29e2ddbf891bfda4ef39945a08" name="octolytics-actor-hash" />
 <meta content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" name="analytics-location" />
 
 
@@ -63,7 +63,7 @@
   <meta name="user-login" content="edenmor">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="YzljMGM1MjgwYjA4YzYxZmE4MWExMDFlNDdkMjIzNWNlYThkZjc1ODZlODUxOGMzNDI2ZDI0MjU5YjUyOGI0OXx7InJlbW90ZV9hZGRyZXNzIjoiMTkyLjExNS44NS44MiIsInJlcXVlc3RfaWQiOiJDN0IxOjQzQzI6NDI5OEI3Nzo3OTk3RDI4OjU5QkE0MDg0IiwidGltZXN0YW1wIjoxNTA1Mzc4NDM5LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
+    <meta name="js-proxy-site-detection-payload" content="ZGNkNGFmYTcwZmE2ZDRkZTdhZThjMWQ4NjEzODcxOTBkZjFkMmY4OWVkNmFkNDEzZTk0ZGM5YWJmYjVlYzIyMHx7InJlbW90ZV9hZGRyZXNzIjoiMTkyLjExNS44NS44MiIsInJlcXVlc3RfaWQiOiJDOTc3OjQzQzM6NDgwRTNBRDo4MzcyMDFCOjU5QkE0NkU5IiwidGltZXN0YW1wIjoxNTA1MzgwMDczLCJob3N0IjoiZ2l0aHViLmNvbSJ9">
 
     <meta name="enabled-features" content="UNIVERSE_BANNER">
 
@@ -80,7 +80,7 @@
   <meta content="28690951" name="octolytics-dimension-user_id" /><meta content="edenmor" name="octolytics-dimension-user_login" /><meta content="103026163" name="octolytics-dimension-repository_id" /><meta content="edenmor/devops_course_test" name="octolytics-dimension-repository_nwo" /><meta content="true" name="octolytics-dimension-repository_public" /><meta content="true" name="octolytics-dimension-repository_is_fork" /><meta content="95134148" name="octolytics-dimension-repository_parent_id" /><meta content="jonatanzafar59/devops_course_test" name="octolytics-dimension-repository_parent_nwo" /><meta content="95134148" name="octolytics-dimension-repository_network_root_id" /><meta content="jonatanzafar59/devops_course_test" name="octolytics-dimension-repository_network_root_nwo" /><meta content="true" name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" />
 
 
-    <link rel="canonical" href="https://github.com/edenmor/devops_course_test/blob/master/README.md" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/edenmor/devops_course_test/blob/master/ansible-example/roles/docker-jenkins/README.md" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -127,7 +127,7 @@
               <div class="header-search scoped-search site-scoped-search js-site-search" role="search">
   <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/edenmor/devops_course_test/search" class="js-site-search-form" data-scoped-search-url="/edenmor/devops_course_test/search" data-unscoped-search-url="/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
     <label class="form-control header-search-wrapper js-chromeless-input-container">
-        <a href="/edenmor/devops_course_test/blob/master/README.md" class="header-search-scope no-underline">This repository</a>
+        <a href="/edenmor/devops_course_test/blob/master/ansible-example/roles/docker-jenkins/README.md" class="header-search-scope no-underline">This repository</a>
       <input type="text"
         class="form-control header-search-input js-site-search-focus js-site-search-field is-clearable"
         data-hotkey="s"
@@ -243,7 +243,7 @@
           Settings
         </a></li>
 
-        <li><!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="jGB/EGD02MLhTgfDjXX1ntYVYN/XXnmQRElUQMkd5ZGWG7943TNP3M3fPHjaST00HI7QE8Jdn8qbrlJ7p4zeYg==" /></div>
+        <li><!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="QnRYR059y6XMJ+ikd76Yhgb97Mo1U+UPh3HRHYt//F5YD5gv87pcu+C20x8gglAszGZcBiBQA1VYltcm5e7HrQ==" /></div>
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -254,7 +254,7 @@
 </ul>
 
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="sr-only right-0" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="iTjAiSg9y+OkWiqjYNL03IALQt46v8mevwmu4wTVDmmTQwDhlfpc/YjLERg37jx2SpDyEi+8L8Rg7qjYakQ1mg==" /></div>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="sr-only right-0" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="4VqxcymXSMXl21+GMgkw+cOsc0MdThH7xV9sdhZoPh77IXEblFDf28lKZD1lNfhTCTfDjwhN96EauGpNePkF7Q==" /></div>
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -289,7 +289,7 @@
 
         <ul class="pagehead-actions">
   <li>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="d+Yxa3LyFeh4bThkXiSVQpQ6J3+9gIjCadfu33EN27gJbA5VihoIoMZiK/ViGULw1lx3weL9kat5PRkZ5b/uBQ==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="103026163" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="eSs8ukgNDHnScaIG524G6HYsVmJ+r9sE//1ZHe6HgooHoQOEsOURMWx+sZfbU9FaNEoG3CHSwm3vF67bejW3Nw==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="103026163" />
 
         <div class="select-menu js-menu-container js-select-menu">
           <a href="/edenmor/devops_course_test/subscription"
@@ -369,7 +369,7 @@
   <li>
     
   <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/edenmor/devops_course_test/unstar" class="starred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="jpwdNYbyIfC0b/bRqQTFA+zdJ3BA3RK2Kkjl8g489v4w+bmSdRmFvjxNkRMqwDrVQSLQC75+coAIY2YOyTxpbw==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/edenmor/devops_course_test/unstar" class="starred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="+RXdYicikGKSKhWxGmh4EulYP4N1ZkDnxeWF+OdkOXJHcHnF1Mk0LBoIcnOZrIfERKfI+IvFINHnzgYEIGSm4w==" /></div>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
@@ -383,7 +383,7 @@
           0
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/edenmor/devops_course_test/star" class="unstarred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="mlMwALuIKR/SJOeJOARbasGRt2+844d3eeLRg9Y1m8PRvV/6AsWNYdCMYSxiLhMuakN1kxJ1p4b+8/QAvVD9mQ==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/edenmor/devops_course_test/star" class="unstarred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="6Pn7DDrBkFmX7/KrJc3KHPTbLqI6h2nNVixhJAr1ydqjF5T2g4w0J5VHdA5/54JYXwnsXpQRSTzRPUSnYZCvgA==" /></div>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
@@ -401,7 +401,7 @@
   </li>
 
   <li>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/edenmor/devops_course_test/fork" class="btn-with-count" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="1r405XRy9sFD0tGDb/y0H98I0MqneAEmRL8tU3BVBnHOsdVVWVDxJnn9DULuYmAbykVfPyXn8MSrldx0cSNBXg==" /></div>
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/edenmor/devops_course_test/fork" class="btn-with-count" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="RBtFFFT29FvVnxkXPo3Yv2OcobmWDgRHHgu/pSWES2lcFKSkedTzvO+wxda/Ewy7dtEuTBSR9aXxIU6CJPIMRg==" /></div>
             <button
                 type="submit"
                 class="btn btn-sm btn-with-count"
@@ -495,9 +495,9 @@
   <div class="repository-content">
 
     
-  <a href="/edenmor/devops_course_test/blob/a550416dd9bf8e80f9562d30e00bb6e1576c2681/README.md" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
+  <a href="/edenmor/devops_course_test/blob/a550416dd9bf8e80f9562d30e00bb6e1576c2681/ansible-example/roles/docker-jenkins/README.md" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
-  <!-- blob contrib key: blob_contributors:v21:f7a7a9a1d45c35b854b926b9fd6a8318 -->
+  <!-- blob contrib key: blob_contributors:v21:e90296e7f93f02f3da9074c220cf3a00 -->
 
   <div class="file-navigation js-zeroclipboard-container">
     
@@ -539,7 +539,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/edenmor/devops_course_test/blob/feature1/README.md"
+               href="/edenmor/devops_course_test/blob/feature1/ansible-example/roles/docker-jenkins/README.md"
                data-name="feature1"
                data-skip-pjax="true"
                rel="nofollow">
@@ -549,7 +549,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open selected"
-               href="/edenmor/devops_course_test/blob/master/README.md"
+               href="/edenmor/devops_course_test/blob/master/ansible-example/roles/docker-jenkins/README.md"
                data-name="master"
                data-skip-pjax="true"
                rel="nofollow">
@@ -560,7 +560,7 @@
             </a>
         </div>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/edenmor/devops_course_test/branches" class="js-create-branch select-menu-item select-menu-new-item-form js-navigation-item js-new-item-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="SlSIUsGXt1SDZUgLnfHgoNupPaE+uwuvzfvJDP3LKTQfKOY5Q2Qe+cj0RSLTGbTuxxjRHXqcCoyIXGiLeNzq5w==" /></div>
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/edenmor/devops_course_test/branches" class="js-create-branch select-menu-item select-menu-new-item-form js-navigation-item js-new-item-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="IdPpfA6ZGbnN6ezVuPl15n4+HjotWBzmwFJ4Dm/35Mh0r4cXjGqwFIZ44fz2ESGoYo/yhml/HcWF9dmJ6uAnGw==" /></div>
           <svg aria-hidden="true" class="octicon octicon-git-branch select-menu-item-icon" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M10 5c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v.3c-.02.52-.23.98-.63 1.38-.4.4-.86.61-1.38.63-.83.02-1.48.16-2 .45V4.72a1.993 1.993 0 0 0-1-3.72C.88 1 0 1.89 0 3a2 2 0 0 0 1 1.72v6.56c-.59.35-1 .99-1 1.72 0 1.11.89 2 2 2 1.11 0 2-.89 2-2 0-.53-.2-1-.53-1.36.09-.06.48-.41.59-.47.25-.11.56-.17.94-.17 1.05-.05 1.95-.45 2.75-1.25S8.95 7.77 9 6.73h-.02C9.59 6.37 10 5.73 10 5zM2 1.8c.66 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2C1.35 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2zm0 12.41c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm6-8c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
             <div class="select-menu-item-text">
               <span class="select-menu-item-heading">Create branch: <span class="js-new-item-name"></span></span>
@@ -568,7 +568,7 @@
             </div>
             <input type="hidden" name="name" id="name" class="js-new-item-value">
             <input type="hidden" name="branch" id="branch" value="master">
-            <input type="hidden" name="path" id="path" value="README.md">
+            <input type="hidden" name="path" id="path" value="ansible-example/roles/docker-jenkins/README.md">
 </form>
       </div>
 
@@ -577,7 +577,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/edenmor/devops_course_test/tree/0.0.1/README.md"
+              href="/edenmor/devops_course_test/tree/0.0.1/ansible-example/roles/docker-jenkins/README.md"
               data-name="0.0.1"
               data-skip-pjax="true"
               rel="nofollow">
@@ -605,12 +605,12 @@
       <button aria-label="Copy file path to clipboard" class="js-zeroclipboard btn btn-sm BtnGroup-item tooltipped tooltipped-s" data-copied-hint="Copied!" type="button">Copy path</button>
     </div>
     <div class="breadcrumb js-zeroclipboard-target">
-      <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/edenmor/devops_course_test"><span>devops_course_test</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+      <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/edenmor/devops_course_test"><span>devops_course_test</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a href="/edenmor/devops_course_test/tree/master/ansible-example"><span>ansible-example</span></a></span><span class="separator">/</span><span class="js-path-segment"><a href="/edenmor/devops_course_test/tree/master/ansible-example/roles"><span>roles</span></a></span><span class="separator">/</span><span class="js-path-segment"><a href="/edenmor/devops_course_test/tree/master/ansible-example/roles/docker-jenkins"><span>docker-jenkins</span></a></span><span class="separator">/</span><strong class="final-path">README.md</strong>
     </div>
   </div>
 
 
-  <include-fragment class="commit-tease" src="/edenmor/devops_course_test/contributors/master/README.md">
+  <include-fragment class="commit-tease" src="/edenmor/devops_course_test/contributors/master/ansible-example/roles/docker-jenkins/README.md">
     <div>
       Fetching contributors&hellip;
     </div>
@@ -626,9 +626,9 @@
   <div class="file-actions">
 
     <div class="BtnGroup">
-      <a href="/edenmor/devops_course_test/raw/master/README.md" class="btn btn-sm BtnGroup-item" id="raw-url">Raw</a>
-        <a href="/edenmor/devops_course_test/blame/master/README.md" class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b">Blame</a>
-      <a href="/edenmor/devops_course_test/commits/master/README.md" class="btn btn-sm BtnGroup-item" rel="nofollow">History</a>
+      <a href="/edenmor/devops_course_test/raw/master/ansible-example/roles/docker-jenkins/README.md" class="btn btn-sm BtnGroup-item" id="raw-url">Raw</a>
+        <a href="/edenmor/devops_course_test/blame/master/ansible-example/roles/docker-jenkins/README.md" class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b">Blame</a>
+      <a href="/edenmor/devops_course_test/commits/master/ansible-example/roles/docker-jenkins/README.md" class="btn btn-sm BtnGroup-item" rel="nofollow">History</a>
     </div>
 
         <a class="btn-octicon tooltipped tooltipped-nw"
@@ -638,12 +638,12 @@
             <svg aria-hidden="true" class="octicon octicon-device-desktop" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
         </a>
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/edenmor/devops_course_test/edit/master/README.md" class="inline-form js-update-url-with-hash" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="KjU/MqhZOkL1Dw7K5qYgYzE0viRuAFCg4bwvgm/51WwvMN5uQ98A+/zjJ2mGhUos90643vNO5SPXNMXpDCi63g==" /></div>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/edenmor/devops_course_test/edit/master/ansible-example/roles/docker-jenkins/README.md" class="inline-form js-update-url-with-hash" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="ORn8cRIQE7jqyT3JbGj7cEoyaW1a6HokLN+MI7+4HQDNQTV+rbtjjgzUs3TJfLCM0/1Z5aPsECv2jplevOpN0Q==" /></div>
           <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
             aria-label="Edit this file" data-hotkey="e" data-disable-with>
             <svg aria-hidden="true" class="octicon octicon-pencil" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
           </button>
-</form>        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/edenmor/devops_course_test/delete/master/README.md" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Oj/l62MSFfvTFQEKZC/uYWv5QBbYQJsKjCHGLXg3Jp9UTIIDtKDsMYXv9StGZEVsaj44sTSVcAUjv4m7hTCG+A==" /></div>
+</form>        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/edenmor/devops_course_test/delete/master/ansible-example/roles/docker-jenkins/README.md" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="l3b0gTiPfp04imvraO9lGN1pJSxmJ2PD55U0rzTpspfG4Io0UuN8X1Pqx1ZgTdzP2GciiQG233vFpBjjx10T5w==" /></div>
           <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
             aria-label="Delete this file" data-disable-with>
             <svg aria-hidden="true" class="octicon octicon-trashcan" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -651,16 +651,32 @@
 </form>  </div>
 
   <div class="file-info">
-      3 lines (2 sloc)
+      39 lines (24 sloc)
       <span class="file-info-divider"></span>
-    51 Bytes
+    1.3 KB
   </div>
 </div>
 
     
   <div id="readme" class="readme blob instapaper_body">
-    <article class="markdown-body entry-content" itemprop="text"><h1><a id="user-content-devops_course_test" class="anchor" href="#devops_course_test" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>devops_course_test</h1>
-<p>this repository is an example</p>
+    <article class="markdown-body entry-content" itemprop="text"><h1><a id="user-content-role-name" class="anchor" href="#role-name" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Role Name</h1>
+<p>A brief description of the role goes here.</p>
+<h2><a id="user-content-requirements" class="anchor" href="#requirements" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Requirements</h2>
+<p>Any pre-requisites that may not be covered by Ansible itself or the role should be mentioned here. For instance, if the role uses the EC2 module, it may be a good idea to mention in this section that the boto package is required.</p>
+<h2><a id="user-content-role-variables" class="anchor" href="#role-variables" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Role Variables</h2>
+<p>A description of the settable variables for this role should go here, including any variables that are in defaults/main.yml, vars/main.yml, and any variables that can/should be set via parameters to the role. Any variables that are read from other roles and/or the global scope (ie. hostvars, group vars, etc.) should be mentioned here as well.</p>
+<h2><a id="user-content-dependencies" class="anchor" href="#dependencies" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Dependencies</h2>
+<p>A list of other roles hosted on Galaxy should go here, plus any details in regards to parameters that may need to be set for other roles, or variables that are used from other roles.</p>
+<h2><a id="user-content-example-playbook" class="anchor" href="#example-playbook" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Example Playbook</h2>
+<p>Including an example of how to use your role (for instance, with variables passed in as parameters) is always nice for users too:</p>
+<pre><code>- hosts: servers
+  roles:
+     - { role: username.rolename, x: 42 }
+</code></pre>
+<h2><a id="user-content-license" class="anchor" href="#license" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>License</h2>
+<p>BSD</p>
+<h2><a id="user-content-author-information" class="anchor" href="#author-information" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Author Information</h2>
+<p>An optional section for the role authors to include contact information, or a website (HTML is not allowed).</p>
 </article>
   </div>
 
@@ -686,7 +702,7 @@
 <div class="footer container-lg px-3" role="contentinfo">
   <div class="position-relative d-flex flex-justify-between py-6 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap ">
-      <li class="mr-3">&copy; 2017 <span title="0.33279s from unicorn-2259461617-fg5ds">GitHub</span>, Inc.</li>
+      <li class="mr-3">&copy; 2017 <span title="0.21942s from unicorn-2259461617-brnf1">GitHub</span>, Inc.</li>
         <li class="mr-3"><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
         <li class="mr-3"><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
         <li class="mr-3"><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
